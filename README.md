@@ -7,7 +7,7 @@ Here is the linn in case the mail file fail to open. https://colab.research.goog
 
 Introduction:
 
-1. Interesting Data on YouTube Channels
+Interesting Data on YouTube Channels
 
 I've been exploring a dataset on Kaggle called "Global YouTube Statistics 2023" 
 Global YouTube Statistics 2023 (kaggle.com)
